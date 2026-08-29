@@ -1,0 +1,27 @@
+:root {
+  --ink: #1e2a26;
+  --ink-soft: #4b5a54;
+  --paper: #eef1e9;
+  --card: #ffffff;
+  --teal: #1f5c52;
+  --teal-dark: #12332d;
+  --brick: #a6402f;
+  --gold: #c98a2a;
+  --line: #d6decb;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+}
