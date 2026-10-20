@@ -1,0 +1,10 @@
+# Private implementation
+/NER/
+/Frontend/
+
+# Local tooling and credentials
+/.aws/
+/.codex/
+/.agents/
+.env
+.env.*
