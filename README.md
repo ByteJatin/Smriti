@@ -1,6 +1,6 @@
 # Smriti
 ### Cognitive care that feels like home.
-
+# Check Other branches for more details.
 ## Our Hackathon Journey
 
 Smriti is a project built by our team for **Smart India Hackathon
